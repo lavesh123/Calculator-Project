@@ -1,0 +1,26 @@
+
+.mx-auto{
+  margin:auto;
+}
+/* .mw{
+  max-width:17vw;
+  
+} */
+.items-center{
+  align-items:center;
+}
+
+.flex{
+  display:flex;
+}
+.flex-col{
+  flex-direction:column;
+}
+.text-center{
+  text-align:center;
+}
+.header{
+  background-image:url(https://images.unsplash.com/photo-1652060273109-535205e5c79e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMjV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+  background-repeat:no-repeat;
+   background-size: cover;
+}

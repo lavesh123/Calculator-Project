@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%
+  font-family: 'Fira Sans', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+  
+}
+.button{
+  padding:20px;
+  width:58px;
+  margin: 0 3px;
+  border:2px solid blue;
+  border-radius:9px;
+}
+
+.row{
+  margin:12px 0;
+}
+
+.row input{
+  margin:0;
+  padding:6px 32px;
+  border:2px solid blue;
+  border-radius:9px;
+  cursor:pointer;
+  font-size:23px;
+  width: 213px
+}
+
+
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
